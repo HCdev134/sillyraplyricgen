@@ -1,0 +1,11 @@
+:root{
+    --themeLightGray: #EEEEEE;
+    --themeWhite: #FFF;
+}
+html,body {
+  background-color: var(--themeLightGray)
+}
+
+.container {
+  background-color: var(--themeWhite);
+}
